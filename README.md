@@ -1,8 +1,8 @@
-# Système de Chiffrement RSA en Python
+# Système de Chiffrement RSA en Python et en C
 
 ## Description
 
-Ce projet implémente un système de chiffrement RSA en Python. Il montre l'utilisation des concepts mathématiques sous-jacents au RSA, tels que le calcul du PGCD, l'algorithme d'Euclide étendu pour trouver l'inverse modulaire et l'exponentiation modulaire pour chiffrer et déchiffrer des messages. Le système utilise une clé publique pour le chiffrement et une clé privée pour le déchiffrement, conformément aux principes de la cryptographie asymétrique.
+Ce projet implémente un système de chiffrement RSA en Python et langage C (ne fonctionne pas...). Il montre l'utilisation des concepts mathématiques sous-jacents au RSA, tels que le calcul du PGCD, l'algorithme d'Euclide étendu pour trouver l'inverse modulaire et l'exponentiation modulaire pour chiffrer et déchiffrer des messages. Le système utilise une clé publique pour le chiffrement et une clé privée pour le déchiffrement, conformément aux principes de la cryptographie asymétrique.
 
 ## Fonctionnalités
 
@@ -34,6 +34,7 @@ Le message "Donnez moi un poste de pentester svp" est converti en un nombre, pui
 ## Prérequis
 
 - Python 3
+- gcc
 
 ## Utilisation
 
